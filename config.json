@@ -1,0 +1,9 @@
+{
+  "branch": "main",
+  "secret": "aeiou",
+  "project_name": "BackendIteright",
+  "source": "gitlab",
+  "project_local_path": "/home/neoito-296/sampleproject",
+  "pm2_process_id": 0,
+  "deploy_server_port": 4000
+}
